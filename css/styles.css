@@ -112,7 +112,7 @@ input[type="submit"]:hover {
 
 header {
     position: sticky;
-    top: -75px;
+    top: -100px;
 }
 
 input:invalid {
